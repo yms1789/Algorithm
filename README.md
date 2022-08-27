@@ -8,3 +8,4 @@
 | 2일차(22.08.19) | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [124나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
 | 3일차(22.08.22) | [짝꿍]()|
 | 4일차(22.08.23) | [3총사]()|
+| 5일차(22.08.27) | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|
