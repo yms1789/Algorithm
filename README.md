@@ -9,4 +9,4 @@
 | 3일차(22.08.22) | [짝꿍]()|
 | 4일차(22.08.23) | [3총사]()|
 | 5일차(22.08.27) | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|
-| 6일차(22.08.29) | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|
+| 6일차(22.08.29) | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[ValidAnagram]()|
