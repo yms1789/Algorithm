@@ -61,7 +61,7 @@
   > 두 개의 문자열이 주어지면 두 번째 문자열이 첫 번째 문자열의 아나그램인지 확인하는 함수를 작성하라.  
     ***제한사항: 입력 값은 소문자 알파벳으로 이루어진 문자열***
 - 예시
-  ```js  
+  ```jsx
   validAnagram('', '') // true
   validAnagram('aaz', 'zza') // false
   validAnagram('anagram', 'nagaram') // true
@@ -76,3 +76,34 @@
   2. 문자열의 길이만큼 반복하면서 첫 번째 문자열에 있는 문자가 두 번째 문자열에 포함되어있지 않다면 false 리턴
   3. 첫 번째 문자열 내 특정 문자 개수와 두 번째 문자열의 특정 문자 개수가 같은지 판단, 같지 않다면 false 리턴
   4. 위의 조건 외에는 true 리턴
+
+- 다른 사람 풀이
+  ```jsx
+  // 문자열 정보를 담을 객체를 두 개를 생성하지 않고 하나만 생성함
+  function valiidAnagram(first, second){
+    if(first.length !== second.length){
+      return false;
+    }
+
+    const lookup = {};
+
+    for(let i = 0; i < first.length; i++){
+      let letter = first[i];
+      lookup[letter] ? lookup[letter] +=1 : lookup[letter] = 1;
+    }
+    for(let i = 0; i < second.length; i++){
+      let letter = second[i];
+      if(!lookup[letter]){
+        return false;
+      } else{
+        lookup[letter] -= 1;
+      }
+    }
+    return true;
+  }
+  ```
+  1. 첫 번째 문자열 정보를 객체(lookup)에 담음
+  2. 두번 째 문자열 길이만큼 반복문을 돌면서
+      -  lookup 객체 내 두번째 문자열의 i번째 문자(letter) 개수가 0이라면 false 리턴
+      - 있다면 해당 문자의 개수를 -1 해줌
+  3. 반복문을 전부 다 돌았다면, 두 문자열은 아나그램 문자열이므로 true 리턴
