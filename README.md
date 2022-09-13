@@ -14,4 +14,4 @@
 | 8일차(22.09.02) | [알고리즘 연습 모음]()|
 | 9일차(22.09.06) | [알고리즘 연습 모음2]()|
 | 10일차(22.09.07) | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
-| 11일차(22.09.13) | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|
+| 11일차(22.09.13) | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)| [알고리즘 연습문제 모음3]()|
