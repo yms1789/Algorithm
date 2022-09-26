@@ -2,9 +2,10 @@
 
 ## 📅 일정표 <매주 주말 1~2문제>
 
-|      일차       |                                         1                                         |                                         2                                         |
-| :-------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| 1일차(22.08.18) |  [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)   | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)  |
+<!-- prettier-ignore-start -->
+|일차| 1 | 2 |
+| :---: | :---: | :---: |
+| 1일차(22.08.18) | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |
 | 2일차(22.08.19) | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [124나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
 | 3일차(22.08.22) | [짝꿍]()|
 | 4일차(22.08.23) | [3총사]()|
@@ -18,3 +19,5 @@
 | 12일차(22.09.13) | [reverse]()| [isPalindrome]()|
 | 13일차(22.09.19) | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|
 | 14일차(22.09.25) | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|
+| 15일차(22.09.26) | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
+<!-- prettier-ignore-end -->
