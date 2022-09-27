@@ -20,4 +20,5 @@
 | 13일차(22.09.19) | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|
 | 14일차(22.09.25) | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|
 | 15일차(22.09.26) | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
+| 16일차(22.09.27) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|
 <!-- prettier-ignore-end -->
