@@ -21,6 +21,6 @@
 | 14일차(22.09.25) | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|
 | 15일차(22.09.26) | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
 | 16일차(22.09.27) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|
-|17일차(22.10.05)|[코테 풀이 모음](https://github.com/yms1789/jsAlgorithm/tree/main/17일차)|
-|17일차(22.10.05)|[코테 풀이 모음](https://github.com/yms1789/jsAlgorithm/tree/main/18일차)|
+|17일차(22.10.04)|[코테 풀이 모음(Level 1 1페이지 ~)](https://github.com/yms1789/jsAlgorithm/tree/main/17일차)|
+|18일차(22.10.05)|[코테 풀이 모음(Level 1 1페이지 완료)](https://github.com/yms1789/jsAlgorithm/tree/main/18일차)|
 <!-- prettier-ignore-end -->
