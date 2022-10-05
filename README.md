@@ -22,4 +22,5 @@
 | 15일차(22.09.26) | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
 | 16일차(22.09.27) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|
 |17일차(22.10.05)|[코테 풀이 모음](https://github.com/yms1789/jsAlgorithm/tree/main/17일차)|
+|17일차(22.10.05)|[코테 풀이 모음](https://github.com/yms1789/jsAlgorithm/tree/main/18일차)|
 <!-- prettier-ignore-end -->
