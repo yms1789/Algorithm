@@ -24,4 +24,5 @@
 |17일차(22.10.04)|[코테 풀이 모음(Level 1 1페이지 ~)](https://github.com/yms1789/jsAlgorithm/tree/main/17일차)|
 |18일차(22.10.05)|[코테 풀이 모음(Level 1 1페이지 완료)](https://github.com/yms1789/jsAlgorithm/tree/main/18일차)|
 |19일차(22.10.06)|[코테 풀이 모음(Level 1 2페이지 ~)](https://github.com/yms1789/jsAlgorithm/tree/main/19일차)|
+|20일차(22.10.10)|[코테 풀이 모음(Level 1 2페이지 ~)](https://github.com/yms1789/jsAlgorithm/tree/main/20일차)|
 <!-- prettier-ignore-end -->
