@@ -37,4 +37,6 @@
 |일차| 1 | 2 |언어
 |:--:|:--:|:--:|:--:|
 |23년 1일차|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[]()|JavaScript|
+|23년 2일차|[소수 찾기](https://www.acmicpc.net/problem/1978)|[]()|Java|
+|23년 3일차|[공약수](https://www.acmicpc.net/problem/2436)|[바이러스](https://www.acmicpc.net/problem/2606)|Java|
 <!-- prettier-ignore-end -->
