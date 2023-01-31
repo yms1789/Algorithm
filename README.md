@@ -41,4 +41,5 @@
 |23년 3일차|[공약수](https://www.acmicpc.net/problem/2436)|[바이러스](https://www.acmicpc.net/problem/2606)|Java|
 |23년 4일차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=javascript)||JavaScript|
 |23년 5일차|[한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)||Java|
+|23년 5일차|[카드 비교하기 2](https://www.acmicpc.net/problem/16194)||Java|
 <!-- prettier-ignore-end -->
