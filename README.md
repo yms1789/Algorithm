@@ -43,4 +43,5 @@
 |23년 5일차|[한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)||Java|
 |23년 6일차|[카드 비교하기 2](https://www.acmicpc.net/problem/16194)|[Four Squares](https://www.acmicpc.net/problem/17626)|Java|
 |23년 7일차|[2 x n 타일링](https://www.acmicpc.net/problem/11726)|[조합](https://www.acmicpc.net/problem/2407)|Java|
+|23년 8일차|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|JavaScript, Java|
 <!-- prettier-ignore-end -->
