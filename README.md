@@ -45,4 +45,5 @@
 |23년 7일차|[2 x n 타일링](https://www.acmicpc.net/problem/11726)|[조합](https://www.acmicpc.net/problem/2407)|Java|
 |23년 8일차|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|JavaScript, Java|
 |23년 9일차|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|[연속합](https://www.acmicpc.net/problem/1912)|Java|
+|23년 10일차|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)||JavaScript|
 <!-- prettier-ignore-end -->
