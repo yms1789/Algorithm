@@ -47,4 +47,5 @@
 |23년 9일차|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|[연속합](https://www.acmicpc.net/problem/1912)|Java|
 |23년 10일차|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)||JavaScript|
 |23년 11일차|[스티커](https://www.acmicpc.net/problem/9465)|[점프](https://www.acmicpc.net/problem/1890)|Java|
+|23년 12일차|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[괄호 제거](https://www.acmicpc.net/problem/2800)|JavaScript, Java|
 <!-- prettier-ignore-end -->
