@@ -48,5 +48,5 @@
 |23년 10일차|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)||JavaScript|
 |23년 11일차|[스티커](https://www.acmicpc.net/problem/9465)|[점프](https://www.acmicpc.net/problem/1890)|Java|
 |23년 12일차|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[괄호 제거](https://www.acmicpc.net/problem/2800)|JavaScript, Java|
-|23년 12일차|[DFS와 BFS](https://www.acmicpc.net/problem/1260)||Java|
+|23년 13일차|[DFS와 BFS](https://www.acmicpc.net/problem/1260)||Java|
 <!-- prettier-ignore-end -->
