@@ -50,4 +50,5 @@
 |23년 12일차|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[괄호 제거](https://www.acmicpc.net/problem/2800)|JavaScript, Java|
 |23년 13일차|[DFS와 BFS](https://www.acmicpc.net/problem/1260)||Java|
 |23년 14일차|[연구소](https://www.acmicpc.net/problem/14502)|[n^2배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|JavaScript, Java|
+|23년 15일차|[쇠막대기](https://www.acmicpc.net/problem/10799)|[스택 수열](https://www.acmicpc.net/problem/1874)|JavaScript, Java|
 <!-- prettier-ignore-end -->
