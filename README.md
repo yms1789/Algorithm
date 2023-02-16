@@ -53,4 +53,5 @@
 |23년 15일차|[쇠막대기](https://www.acmicpc.net/problem/10799)|[스택 수열](https://www.acmicpc.net/problem/1874)|Java|
 |23년 16일차|[생태학](https://www.acmicpc.net/problem/4358)|[절댓값 힙](https://www.acmicpc.net/problem/11286)|Java|
 |23년 17일차|[뱀](https://www.acmicpc.net/problem/3190)||Java|
+|23년 18일차|[퇴사](https://www.acmicpc.net/problem/14501)||Java|
 <!-- prettier-ignore-end -->
