@@ -54,4 +54,5 @@
 |23년 16일차|[생태학](https://www.acmicpc.net/problem/4358)|[절댓값 힙](https://www.acmicpc.net/problem/11286)|Java|
 |23년 17일차|[뱀](https://www.acmicpc.net/problem/3190)||Java|
 |23년 18일차|[퇴사](https://www.acmicpc.net/problem/14501)||Java|
+|23년 19일차|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)||JavaScript|
 <!-- prettier-ignore-end -->
