@@ -55,4 +55,5 @@
 |23년 17일차|[뱀](https://www.acmicpc.net/problem/3190)||Java|
 |23년 18일차|[퇴사](https://www.acmicpc.net/problem/14501)||Java|
 |23년 19일차|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[Ladder1](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYZoaAwqEisDFARc&contestProbId=AV14ABYKADACFAYh&probBoxId=AYZoa3QaEnEDFARc&type=PROBLEM&problemBoxTitle=2%EC%9B%9421%EC%9D%BC%28%ED%99%94%29+%EB%B0%B0%EC%97%B42&problemBoxCnt=3)|JavaScript, Java|
+|23년 20일차|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[치킨 배달](https://www.acmicpc.net/problem/15686)|Java|
 <!-- prettier-ignore-end -->
