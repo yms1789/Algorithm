@@ -57,5 +57,6 @@
 |23년 19일차|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[Ladder1](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYZoaAwqEisDFARc&contestProbId=AV14ABYKADACFAYh&probBoxId=AYZoa3QaEnEDFARc&type=PROBLEM&problemBoxTitle=2%EC%9B%9421%EC%9D%BC%28%ED%99%94%29+%EB%B0%B0%EC%97%B42&problemBoxCnt=3)|JavaScript, Java|
 |23년 20일차|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[치킨 배달](https://www.acmicpc.net/problem/15686)|Java|
 |23년 21일차|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[인구 이동](https://www.acmicpc.net/problem/16234)|Java, JavaScript|
-|23년 21일차|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Java, JavaScript|
+|23년 22일차|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Java, JavaScript|
+|23년 23일차|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[](https://www.acmicpc.net/problem/14503)|Java, JavaScript|
 <!-- prettier-ignore-end -->
