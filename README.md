@@ -60,4 +60,5 @@
 |23년 22일차|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Java, JavaScript|
 |23년 23일차|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[감시](https://www.acmicpc.net/problem/15683)|Java|
 |23년 24일차|[파이프 옮기기](https://www.acmicpc.net/problem/17070)|[게리멘더링](https://www.acmicpc.net/problem/17471)|Java|
+|23년 24일차|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[게리멘더링](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|Java|
 <!-- prettier-ignore-end -->
