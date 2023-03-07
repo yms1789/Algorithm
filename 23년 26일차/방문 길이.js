@@ -1,6 +1,4 @@
 function solution(dirs) {
-  let dx = [-1, 0, 1, 0]; // U L D R
-  let dy = [0, -1, 0, 1];
   let visited = {};
   let cur = [0, 0];
   for (let i = 0; i < dirs.length; i++) {
