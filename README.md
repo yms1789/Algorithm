@@ -62,4 +62,5 @@
 |23년 24일차|[파이프 옮기기](https://www.acmicpc.net/problem/17070)|[게리멘더링](https://www.acmicpc.net/problem/17471)|Java|
 |23년 25일차|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|Java|
 |23년 26일차|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)||JavaScript|
+|23년 27일차|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/49994)||JavaScript|
 <!-- prettier-ignore-end -->
