@@ -63,5 +63,5 @@
 |23년 25일차|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|Java|
 |23년 26일차|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)||JavaScript|
 |23년 27일차|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/49994)||JavaScript|
-|23년 28일차|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)||JavaScript|
+|23년 28일차|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)||Java|
 <!-- prettier-ignore-end -->
