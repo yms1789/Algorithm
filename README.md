@@ -66,4 +66,5 @@
 |23년 28일차|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)||Java|
 |23년 29일차|[경사로](https://www.acmicpc.net/problem/14890)|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|Java|
 |23년 29일차(SWEA)|[암호코드 스캔](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD)|[단순 2진암호 코드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD)|Java|
+|23년 30일차|[아기 상어](https://www.acmicpc.net/problem/16236)|[빗물](https://www.acmicpc.net/problem/14719)|Java|
 <!-- prettier-ignore-end -->
