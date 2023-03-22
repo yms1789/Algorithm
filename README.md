@@ -68,4 +68,6 @@
 |23년 29일차(SWEA)|[암호코드 스캔](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD)|[단순 2진암호 코드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD)|Java|
 |23년 30일차|[아기 상어](https://www.acmicpc.net/problem/16236)|[빗물](https://www.acmicpc.net/problem/14719)|Java|
 |23년 30일차(SWEA)|[최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)|[균형점](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15MeBKAOgCFAYD)|Java|
+|23년 31일차|[스타트링크](https://www.acmicpc.net/problem/5014)|[토마토](https://www.acmicpc.net/problem/7576)|Java|
+|23년 31일차(SWEA)|[공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)|[최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)|Java|
 <!-- prettier-ignore-end -->
