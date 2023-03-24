@@ -70,4 +70,6 @@
 |23년 30일차(SWEA)|[최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)|[균형점](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15MeBKAOgCFAYD)|Java|
 |23년 31일차|[스타트링크](https://www.acmicpc.net/problem/5014)|[토마토](https://www.acmicpc.net/problem/7576)|Java|
 |23년 31일차(SWEA)|[공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)|[최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)|Java|
+|23년 32일차|[틱택토](https://www.acmicpc.net/problem/7682)|[A와 B 2](https://www.acmicpc.net/problem/12919)|Java|
+|23년 32일차(SWEA)|[하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)|[보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)|Java|
 <!-- prettier-ignore-end -->
