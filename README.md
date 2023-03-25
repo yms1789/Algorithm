@@ -72,4 +72,6 @@
 |23년 31일차(SWEA)|[공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)|[최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)|Java|
 |23년 32일차|[틱택토](https://www.acmicpc.net/problem/7682)|[A와 B 2](https://www.acmicpc.net/problem/12919)|Java|
 |23년 32일차(SWEA)|[하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)|[보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)|Java|
+|23년 33일차|[숫자 고르기](https://www.acmicpc.net/problem/2668)|[]()|Java|
+|23년 33일차(SWEA)|[K번째 문자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN)|[GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)|Java|
 <!-- prettier-ignore-end -->
