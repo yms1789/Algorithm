@@ -75,4 +75,6 @@
 |23년 33일차|[숫자 고르기](https://www.acmicpc.net/problem/2668)|[]()|Java|
 |23년 33일차(SWEA)|[K번째 문자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN)|[GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)|Java|
 |23년 34일차|[알파벳](https://www.acmicpc.net/problem/1987)|[]()|Java|
+|23년 35일차|[불!](https://www.acmicpc.net/problem/4179)|[]()|Java|
+|23년 35일차(SWEA)|[행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)|[금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)|Java|
 <!-- prettier-ignore-end -->
