@@ -77,4 +77,6 @@
 |23년 34일차|[알파벳](https://www.acmicpc.net/problem/1987)|[]()|Java|
 |23년 35일차|[불!](https://www.acmicpc.net/problem/4179)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Java, JavaScript|
 |23년 35일차(SWEA)|[행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)|[금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)|Java|
+|23년 36일차|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|Java, JavaScript|
+|23년 35일차(SWEA)|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|[보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)|Java|
 <!-- prettier-ignore-end -->
