@@ -72,11 +72,13 @@
 |23년 31일차(SWEA)|[공통조상](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)|[최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)|Java|
 |23년 32일차|[틱택토](https://www.acmicpc.net/problem/7682)|[A와 B 2](https://www.acmicpc.net/problem/12919)|Java|
 |23년 32일차(SWEA)|[하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)|[보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)|Java|
-|23년 33일차|[숫자 고르기](https://www.acmicpc.net/problem/2668)|[]()|Java|
+|23년 33일차|[숫자 고르기](https://www.acmicpc.net/problem/2668)||Java|
 |23년 33일차(SWEA)|[K번째 문자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN)|[GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)|Java|
-|23년 34일차|[알파벳](https://www.acmicpc.net/problem/1987)|[]()|Java|
+|23년 34일차|[알파벳](https://www.acmicpc.net/problem/1987)||Java|
 |23년 35일차|[불!](https://www.acmicpc.net/problem/4179)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Java, JavaScript|
 |23년 35일차(SWEA)|[행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)|[금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)|Java|
 |23년 36일차|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|Java, JavaScript|
 |23년 35일차(SWEA)|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|[보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)|Java|
+|23년 37일차|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|Java, JavaScript|
+|23년 35일차(SWEA)|[프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)|[활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)|Java|
 <!-- prettier-ignore-end -->
