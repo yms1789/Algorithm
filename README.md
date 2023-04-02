@@ -80,5 +80,8 @@
 |23년 36일차|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|Java, JavaScript|
 |23년 35일차(SWEA)|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|[보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)|Java|
 |23년 37일차|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|Java, JavaScript|
-|23년 35일차(SWEA)|[프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)|[활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)|Java|
+|23년 37일차(SWEA)|[프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)|[활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)|Java|
+|23년 38일차|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)||Java, JavaScript|
+|23년 39일차|[이항 계수2](https://www.acmicpc.net/problem/11051)|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|Java, JavaScript|
+|23년 39일차|[격자상의 경로](https://www.acmicpc.net/problem/10164)|[다음 순열](https://www.acmicpc.net/problem/10972)|Java, JavaScript|
 <!-- prettier-ignore-end -->
