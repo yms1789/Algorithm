@@ -85,4 +85,5 @@
 |23년 39일차|[이항 계수2](https://www.acmicpc.net/problem/11051)|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|Java, JavaScript|
 |23년 39일차|[격자상의 경로](https://www.acmicpc.net/problem/10164)|[다음 순열](https://www.acmicpc.net/problem/10972)|Java, JavaScript|
 |23년 40일차|[장훈이의 높은 선반](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw)||Java|
+|23년 41일차|[탑(다시 풀기)](https://www.acmicpc.net/problem/2493)||Java|
 <!-- prettier-ignore-end -->
