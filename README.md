@@ -88,4 +88,5 @@
 |23년 41일차|[탑(다시 풀기)](https://www.acmicpc.net/problem/2493)||Java|
 |23년 42일차|[이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|Java|
 |23년 43일차|[나무 자르기](https://www.acmicpc.net/problem/2805)||Java|
+|23년 43일차|[예산](https://www.acmicpc.net/problem/2512)||Java|
 <!-- prettier-ignore-end -->
