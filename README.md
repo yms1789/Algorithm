@@ -90,4 +90,5 @@
 |23년 43일차|[나무 자르기](https://www.acmicpc.net/problem/2805)||Java|
 |23년 44일차|[예산](https://www.acmicpc.net/problem/2512)||Java|
 |23년 45일차|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)||JavaScript|
+|23년 46일차|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)||JavaScript|
 <!-- prettier-ignore-end -->
