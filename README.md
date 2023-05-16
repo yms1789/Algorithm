@@ -91,4 +91,5 @@
 |23년 44일차|[예산](https://www.acmicpc.net/problem/2512)||Java|
 |23년 45일차|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)||JavaScript|
 |23년 46일차|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|JavaScript|
+|23년 47일차|[디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|Java|
 <!-- prettier-ignore-end -->
