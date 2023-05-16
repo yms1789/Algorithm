@@ -78,7 +78,7 @@
 |23년 35일차|[불!](https://www.acmicpc.net/problem/4179)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Java, JavaScript|
 |23년 35일차(SWEA)|[행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)|[금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)|Java|
 |23년 36일차|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|Java, JavaScript|
-|23년 35일차(SWEA)|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|[보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)|Java|
+|23년 36일차(SWEA)|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|[보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)|Java|
 |23년 37일차|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|Java, JavaScript|
 |23년 37일차(SWEA)|[프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)|[활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)|Java|
 |23년 38일차|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)||Java, JavaScript|
@@ -90,4 +90,6 @@
 |23년 43일차|[나무 자르기](https://www.acmicpc.net/problem/2805)||Java|
 |23년 44일차|[예산](https://www.acmicpc.net/problem/2512)||Java|
 |23년 45일차|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)||JavaScript|
+|23년 46일차|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|JavaScript|
+|23년 47일차|[디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|Java|
 <!-- prettier-ignore-end -->
