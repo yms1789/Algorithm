@@ -92,4 +92,6 @@
 |23년 45일차|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)||JavaScript|
 |23년 46일차|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|JavaScript|
 |23년 47일차|[디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|Java|
+|23년 48일차|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|JavaScript|
+|23년 49일차|[2차원 배열의 합](https://www.acmicpc.net/problem/2167)|[]()|JavaScript|
 <!-- prettier-ignore-end -->
