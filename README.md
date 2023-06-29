@@ -94,4 +94,5 @@
 |23년 47일차|[디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|Java|
 |23년 48일차|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|JavaScript|
 |23년 49일차|[2차원 배열의 합](https://www.acmicpc.net/problem/2167)|[]()|JavaScript|
+|23년 50일차|[택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|[]()|JavaScript|
 <!-- prettier-ignore-end -->
