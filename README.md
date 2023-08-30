@@ -98,5 +98,6 @@
 |23년 51일차|[AC](https://www.acmicpc.net/problem/5430)|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|JavaScript|
 |23년 52일차|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[스티커 모으기](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|JavaScript|
 |23년 53일차|[미로 탐색](https://www.acmicpc.net/problem/2178)||JavaScript|
-|23년 53일차|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)||JavaScript|
+|23년 54일차|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)||JavaScript|
+|23년 55일차|[단지번호붙이기](https://www.acmicpc.net/problem/2667)||JavaScript|
 <!-- prettier-ignore-end -->
