@@ -102,5 +102,5 @@
 |23년 55일차|[단지번호붙이기](https://www.acmicpc.net/problem/2667)||JavaScript|
 |23년 56일차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)||JavaScript|
 |23년 57일차|[외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683?language=javascript)||JavaScript|
-|23년 57일차|[부등호](https://www.acmicpc.net/problem/2529)||JavaScript|
+|23년 58일차|[부등호](https://www.acmicpc.net/problem/2529)||JavaScript|
 <!-- prettier-ignore-end -->
