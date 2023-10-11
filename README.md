@@ -107,4 +107,5 @@
 |23년 60일차|[주식](https://www.acmicpc.net/problem/11501)||JavaScript|
 |23년 61일차|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|JavaScript|
 |23년 62일차|[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)||JavaScript|
+|23년 63일차|[배열 돌리기 1](https://www.acmicpc.net/problem/16926)|[안전 영역](https://www.acmicpc.net/problem/2468)|JavaScript|
 <!-- prettier-ignore-end -->
