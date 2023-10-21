@@ -110,4 +110,5 @@
 |23년 63일차|[배열 돌리기 1](https://www.acmicpc.net/problem/16926)|[안전 영역](https://www.acmicpc.net/problem/2468)|JavaScript|
 |23년 64일차|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)||JavaScript|
 |23년 65일차|[친구](https://www.acmicpc.net/problem/1058)|[접두사](https://www.acmicpc.net/problem/1141)|JavaScript|
+|23년 66일차|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)||JavaScript|
 <!-- prettier-ignore-end -->
