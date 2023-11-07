@@ -112,4 +112,5 @@
 |23년 65일차|[친구](https://www.acmicpc.net/problem/1058)|[접두사](https://www.acmicpc.net/problem/1141)|JavaScript|
 |23년 66일차|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)||JavaScript|
 |23년 67일차|[봄버맨](https://www.acmicpc.net/problem/16918)||JavaScript|
+|23년 68일차|[풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|[추월](https://www.acmicpc.net/problem/2002)|JavaScript|
 <!-- prettier-ignore-end -->
