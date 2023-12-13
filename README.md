@@ -114,4 +114,5 @@
 |23년 67일차|[봄버맨](https://www.acmicpc.net/problem/16918)||JavaScript|
 |23년 68일차|[풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|[추월](https://www.acmicpc.net/problem/2002)|JavaScript|
 |23년 69일차|[선수과목](https://www.acmicpc.net/problem/14567)||JavaScript|
+|23년 70일차|[파스칼 삼각형](https://www.acmicpc.net/problem/15489)|[작업](https://www.acmicpc.net/problem/2056)|JavaScript|
 <!-- prettier-ignore-end -->
