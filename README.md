@@ -116,4 +116,5 @@
 |23년 69일차|[선수과목](https://www.acmicpc.net/problem/14567)||JavaScript|
 |23년 70일차|[파스칼 삼각형](https://www.acmicpc.net/problem/15489)|[작업](https://www.acmicpc.net/problem/2056)|JavaScript|
 |23년 71일차|[정수 제곱근](https://www.acmicpc.net/problem/2417)|[부분수열의 합](https://www.acmicpc.net/problem/14225)|JavaScript|
+|23년 72일차|[카드 놓기](https://www.acmicpc.net/problem/5568)||JavaScript|
 <!-- prettier-ignore-end -->
