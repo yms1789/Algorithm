@@ -27,7 +27,9 @@
 |20일차(22.10.10)|[코테 풀이 모음(Level 1 2페이지 ~)](https://github.com/yms1789/jsAlgorithm/tree/main/20일차)|
 
 ## 📅 2023년 다시 시작(Java & JavaScript)
+
 ### SSAFY 사전과제
+
 |난이도| 1 | 2 | 3 | 4 | 5 | 6 |언어 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |사전과제(하)|[평균값 구하기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYUu1hG6O44DFARs&contestProbId=AV5QRnJqA5cDFAUq&probBoxId=AYUu1hG6O48DFARs&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%ED%95%98%29&problemBoxCnt=5)|[최대수 구하기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYUu1hG6O44DFARs&contestProbId=AV5QQhbqA4QDFAUq&probBoxId=AYUu1hG6O48DFARs&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%ED%95%98%29&problemBoxCnt=5)|[중간값 찾기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYUu1hG6O44DFARs&contestProbId=AV5QPsXKA2UDFAUq&probBoxId=AYUu1hG6O48DFARs&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%ED%95%98%29&problemBoxCnt=5)|[자릿수 더하기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYUu1hG6O44DFARs&contestProbId=AV5QPRjqA10DFAUq&probBoxId=AYUu1hG6O48DFARs&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%ED%95%98%29&problemBoxCnt=5)|[1대1 가위바위보](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYUu1hG6O44DFARs&contestProbId=AV5PjKXKALcDFAUq&probBoxId=AYUu1hG6O48DFARs&type=PROBLEM&problemBoxTitle=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+Track+%28%EB%82%9C%EC%9D%B4%EB%8F%84+%ED%95%98%29&problemBoxCnt=5)||**Java**|
@@ -120,4 +122,8 @@
 |23년 73일차|[N과 M(10)](https://www.acmicpc.net/problem/15664)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|JavaScript|
 |23년 74일차|[단축키 지정](https://www.acmicpc.net/problem/1283)|[도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)|JavaScript|
 |23년 74일차 (2)|[미로 탈출하기](https://www.acmicpc.net/problem/17090)||JavaScript|
+
+## 📅 2024년 시작(Only JavaScript)
+
+|24년 1일차|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)||JavaScript|
 <!-- prettier-ignore-end -->
