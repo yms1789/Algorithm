@@ -129,4 +129,5 @@
 |:--:|:--:|:--:|:--:|
 |24년 1일차|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)||JavaScript|
 |24년 2일차|[상어 초등학교](https://www.acmicpc.net/problem/21608)||JavaScript|
+|24년 3일차|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)||JavaScript|
 <!-- prettier-ignore-end -->
