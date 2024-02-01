@@ -1,5 +1,15 @@
 # 혼자서 하는 코딩 테스트 스터디
 
+## 📌 문제를 풀기 전에 가장 먼저 생각해야할 것들
+
+### 적절한 알고리즘 설계하기
+
+- __시간 제한이 1초인 문제를 만났을 때, 일반적인 기준은 아래와 같음__
+  - `N`의 범위가 500인 경우: 시간 복잡도가 $O(N^3)$ 인 알고리즘을 설계하면 문제를 풀 수 있다.
+  - `N`의 범위가 2,000인 경우: 시간 복잡도가 $O(N^2)$ 인 알고리즘을 설계하면 문제를 풀 수 있다.
+  - `N`의 범위가 100,000인 경우: 시간 복잡도가 $O(NlogN)$ 인 알고리즘을 설계하면 문제를 풀 수 있다.
+  - `N`의 범위가 10,000,000인 경우: 시간 복잡도가 $O(N)$ 인 알고리즘을 설계하면 문제를 풀 수 있다.
+
 ## 📅 일정표 <매일 1~2문제>
 
 <!-- prettier-ignore-start -->
@@ -130,4 +140,5 @@
 |24년 1일차|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)||JavaScript|
 |24년 2일차|[상어 초등학교](https://www.acmicpc.net/problem/21608)||JavaScript|
 |24년 3일차|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)||JavaScript|
+|24년 4일차|[오목](https://www.acmicpc.net/problem/2615)||JavaScript|
 <!-- prettier-ignore-end -->
