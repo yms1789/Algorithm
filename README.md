@@ -141,4 +141,5 @@
 |24년 2일차|[상어 초등학교](https://www.acmicpc.net/problem/21608)||JavaScript|
 |24년 3일차|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)||JavaScript|
 |24년 4일차|[오목](https://www.acmicpc.net/problem/2615)||JavaScript|
+|24년 5일차|[유성](https://www.acmicpc.net/problem/10703)||JavaScript|
 <!-- prettier-ignore-end -->
