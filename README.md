@@ -142,4 +142,5 @@
 |24년 3일차|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)||JavaScript|
 |24년 4일차|[오목](https://www.acmicpc.net/problem/2615)||JavaScript|
 |24년 5일차|[유성](https://www.acmicpc.net/problem/10703)||JavaScript|
+|24년 6일차|[빗물(JS로 다시 풀이)](https://www.acmicpc.net/problem/14719)||JavaScript|
 <!-- prettier-ignore-end -->
