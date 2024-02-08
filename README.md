@@ -145,4 +145,5 @@
 |24년 6일차|[빗물(JS로 다시 풀이)](https://www.acmicpc.net/problem/14719)||JavaScript|
 |24년 7일차|[단어 맞추기](https://www.acmicpc.net/problem/9081)||JavaScript|
 |24년 8일차|[홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)||JavaScript|
+|24년 9일차|[현수막](https://www.acmicpc.net/problem/14760)||JavaScript|
 <!-- prettier-ignore-end -->
