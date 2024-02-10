@@ -146,4 +146,5 @@
 |24년 7일차|[단어 맞추기](https://www.acmicpc.net/problem/9081)||JavaScript|
 |24년 8일차|[홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)||JavaScript|
 |24년 9일차|[현수막](https://www.acmicpc.net/problem/14760)||JavaScript|
+|24년 10일차|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)||JavaScript|
 <!-- prettier-ignore-end -->
