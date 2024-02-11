@@ -147,4 +147,5 @@
 |24년 8일차|[홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)||JavaScript|
 |24년 9일차|[현수막](https://www.acmicpc.net/problem/14760)||JavaScript|
 |24년 10일차|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)||JavaScript|
+|24년 11일차|[귀여운 라이언](https://www.acmicpc.net/problem/15565)||JavaScript|
 <!-- prettier-ignore-end -->
