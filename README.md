@@ -148,4 +148,5 @@
 |24년 9일차|[현수막](https://www.acmicpc.net/problem/14760)||JavaScript|
 |24년 10일차|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)||JavaScript|
 |24년 11일차|[귀여운 라이언](https://www.acmicpc.net/problem/15565)||JavaScript|
+|24년 12일차|[블로그](https://www.acmicpc.net/problem/21921)||JavaScript|
 <!-- prettier-ignore-end -->
