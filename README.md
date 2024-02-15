@@ -149,4 +149,5 @@
 |24년 10일차|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)||JavaScript|
 |24년 11일차|[귀여운 라이언](https://www.acmicpc.net/problem/15565)||JavaScript|
 |24년 12일차|[블로그](https://www.acmicpc.net/problem/21921)||JavaScript|
+|24년 13일차|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)||JavaScript|
 <!-- prettier-ignore-end -->
