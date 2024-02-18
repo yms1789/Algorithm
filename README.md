@@ -152,4 +152,5 @@
 |24년 13일차|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)||JavaScript|
 |24년 14일차|[표절](https://www.acmicpc.net/problem/2428)||JavaScript|
 |24년 15일차|[선분 위의 점](https://www.acmicpc.net/problem/11663)||JavaScript|
+|24년 16일차|[랜선 자르기](https://www.acmicpc.net/problem/1654)||JavaScript|
 <!-- prettier-ignore-end -->
