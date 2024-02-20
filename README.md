@@ -154,4 +154,5 @@
 |24년 15일차|[선분 위의 점](https://www.acmicpc.net/problem/11663)||JavaScript|
 |24년 16일차|[랜선 자르기](https://www.acmicpc.net/problem/1654)||JavaScript|
 |24년 17일차|[A → B](https://www.acmicpc.net/problem/16953)||JavaScript|
+|24년 18일차|[수들의 합](https://www.acmicpc.net/problem/1789)||JavaScript|
 <!-- prettier-ignore-end -->
