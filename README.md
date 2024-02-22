@@ -156,4 +156,5 @@
 |24년 17일차|[A → B](https://www.acmicpc.net/problem/16953)||JavaScript|
 |24년 18일차|[수들의 합](https://www.acmicpc.net/problem/1789)||JavaScript|
 |24년 19일차|[신입 사원](https://www.acmicpc.net/problem/1946)||JavaScript|
+|24년 20일차|[보석 상자](https://www.acmicpc.net/problem/2792)||JavaScript|
 <!-- prettier-ignore-end -->
