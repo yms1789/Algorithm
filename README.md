@@ -159,4 +159,5 @@
 |24년 20일차|[보석 상자](https://www.acmicpc.net/problem/2792)||JavaScript|
 |24년 21일차|[합 구하기](https://www.acmicpc.net/problem/11441)||JavaScript|
 |24년 22일차|[주유소](https://www.acmicpc.net/problem/13305)||JavaScript|
+|24년 23일차|[회의실 배정](https://www.acmicpc.net/problem/1931)||JavaScript|
 <!-- prettier-ignore-end -->
