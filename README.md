@@ -162,4 +162,5 @@
 |24년 23일차|[회의실 배정](https://www.acmicpc.net/problem/1931)||JavaScript|
 |24년 24일차|[회문](https://www.acmicpc.net/problem/17609)||JavaScript|
 |24년 25일차|[박스 채우기](https://www.acmicpc.net/problem/1493)||JavaScript|
+|24년 26일차|[용액](https://www.acmicpc.net/problem/2467)||JavaScript|
 <!-- prettier-ignore-end -->
