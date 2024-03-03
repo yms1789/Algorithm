@@ -164,4 +164,5 @@
 |24년 25일차|[박스 채우기](https://www.acmicpc.net/problem/1493)||JavaScript|
 |24년 26일차|[용액](https://www.acmicpc.net/problem/2467)||JavaScript|
 |24년 27일차|[용액](https://school.programmers.co.kr/learn/courses/30/lessons/12926)||JavaScript|
+|24년 28일차|[예산(JS로 다시 풀이)](https://www.acmicpc.net/problem/2512)||JavaScript|
 <!-- prettier-ignore-end -->
