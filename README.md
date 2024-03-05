@@ -166,4 +166,5 @@
 |24년 27일차|[용액](https://school.programmers.co.kr/learn/courses/30/lessons/12926)||JavaScript|
 |24년 28일차|[예산(JS로 다시 풀이)](https://www.acmicpc.net/problem/2512)||JavaScript|
 |24년 29일차|[나무 자르기(JS로 다시 풀이)](https://www.acmicpc.net/problem/2805)||JavaScript|
+|24년 30일차|[숫자 카드 2](https://www.acmicpc.net/problem/10816)||JavaScript|
 <!-- prettier-ignore-end -->
