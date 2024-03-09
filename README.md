@@ -168,4 +168,5 @@
 |24년 29일차|[나무 자르기(JS로 다시 풀이)](https://www.acmicpc.net/problem/2805)||JavaScript|
 |24년 30일차|[숫자 카드 2](https://www.acmicpc.net/problem/10816)||JavaScript|
 |24년 31일차|[병사 배치하기](https://www.acmicpc.net/problem/18353)||JavaScript|
+|24년 32일차|[뒤풀이](https://www.acmicpc.net/problem/14575)||JavaScript|
 <!-- prettier-ignore-end -->
