@@ -170,4 +170,5 @@
 |24년 31일차|[병사 배치하기](https://www.acmicpc.net/problem/18353)||JavaScript|
 |24년 32일차|[뒤풀이](https://www.acmicpc.net/problem/14575)||JavaScript|
 |24년 33일차|[파일 정리](https://www.acmicpc.net/problem/20291)||JavaScript|
+|24년 34일차|[K번째 수](https://www.acmicpc.net/problem/1300)||JavaScript|
 <!-- prettier-ignore-end -->
