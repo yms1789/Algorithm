@@ -174,4 +174,5 @@
 |24년 35일차|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)||JavaScript|
 |24년 36일차|[N-Queen](https://www.acmicpc.net/problem/9663)||JavaScript|
 |24년 37일차|[프린터 큐](https://www.acmicpc.net/problem/1966)||JavaScript|
+|24년 38일차|[스택](https://www.acmicpc.net/problem/10828)||JavaScript|
 <!-- prettier-ignore-end -->
