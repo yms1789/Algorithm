@@ -175,4 +175,5 @@
 |24년 36일차|[N-Queen](https://www.acmicpc.net/problem/9663)||JavaScript|
 |24년 37일차|[프린터 큐](https://www.acmicpc.net/problem/1966)||JavaScript|
 |24년 38일차|[스택](https://www.acmicpc.net/problem/10828)||JavaScript|
+|24년 39일차|[듣보잡](https://www.acmicpc.net/problem/1764)||JavaScript|
 <!-- prettier-ignore-end -->
