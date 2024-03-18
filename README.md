@@ -177,4 +177,5 @@
 |24년 38일차|[스택](https://www.acmicpc.net/problem/10828)||JavaScript|
 |24년 39일차|[듣보잡](https://www.acmicpc.net/problem/1764)||JavaScript|
 |24년 40일차|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)||JavaScript|
+|24년 41일차|[N과 M(1) (JS로 다시 풀이)](https://www.acmicpc.net/problem/15649)||JavaScript|
 <!-- prettier-ignore-end -->
