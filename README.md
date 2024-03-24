@@ -180,5 +180,7 @@
 |24년 41일차|[N과 M(1) (JS로 다시 풀이)](https://www.acmicpc.net/problem/15649)||JavaScript|
 |24년 42일차|[모든 순열](https://www.acmicpc.net/problem/10974)||JavaScript|
 |24년 43일차|[셀프 넘버](https://www.acmicpc.net/problem/4673)||JavaScript|
+|24년 44일차|[0 만들기](https://www.acmicpc.net/problem/7490)||JavaScript|
 |24년 45일차|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)||JavaScript|
+|24년 46일차|[섬의 개수](https://www.acmicpc.net/problem/4963)||JavaScript|
 <!-- prettier-ignore-end -->
