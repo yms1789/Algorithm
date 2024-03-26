@@ -184,4 +184,5 @@
 |24년 45일차|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)||JavaScript|
 |24년 46일차|[섬의 개수](https://www.acmicpc.net/problem/4963)||JavaScript|
 |24년 47일차|[N과 M(2)](https://www.acmicpc.net/problem/15650)||JavaScript|
+|24년 48일차|[N과 M(3)](https://www.acmicpc.net/problem/15651)||JavaScript|
 <!-- prettier-ignore-end -->
