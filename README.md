@@ -187,4 +187,5 @@
 |24년 48일차|[N과 M(3)](https://www.acmicpc.net/problem/15651)||JavaScript|
 |24년 49일차|[N과 M(4)](https://www.acmicpc.net/problem/15652)||JavaScript|
 |24년 50일차|[외판원 순회 2](https://www.acmicpc.net/problem/10971)||JavaScript|
+|24년 51일차|[로또(JS로 다시 풀이)](https://www.acmicpc.net/problem/6603)||JavaScript|
 <!-- prettier-ignore-end -->
