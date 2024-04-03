@@ -190,4 +190,5 @@
 |24년 51일차|[로또(JS로 다시 풀이)](https://www.acmicpc.net/problem/6603)||JavaScript|
 |24년 52일차|[알파벳](https://www.acmicpc.net/problem/1987)||JavaScript|
 |24년 53일차|[유기농 배추(다른 방식으로 다시 풀이)](https://www.acmicpc.net/problem/1012)||JavaScript|
+|24년 54일차|[노드사이의 거리](https://www.acmicpc.net/problem/1240)||JavaScript|
 <!-- prettier-ignore-end -->
