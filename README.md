@@ -192,4 +192,5 @@
 |24년 53일차|[유기농 배추(다른 방식으로 다시 풀이)](https://www.acmicpc.net/problem/1012)||JavaScript|
 |24년 54일차|[노드사이의 거리](https://www.acmicpc.net/problem/1240)||JavaScript|
 |24년 55일차|[보물](https://www.acmicpc.net/problem/1026)||JavaScript|
+|24년 56일차|[트리](https://www.acmicpc.net/problem/4803)|[베스트셀러](https://www.acmicpc.net/problem/1302)|JavaScript|
 <!-- prettier-ignore-end -->
