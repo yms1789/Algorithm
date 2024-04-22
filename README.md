@@ -197,5 +197,6 @@
 |24년 58일차|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)||JavaScript |
 |24년 59일차|[카드 2](https://www.acmicpc.net/problem/2164)||JavaScript|
 |24년 60일차|[텀 프로젝트](https://www.acmicpc.net/problem/9466)||JavaScript|
-|24년 61일차|[산봉우리](https://www.acmicpc.net/problem/1245)||JavaScript|
+|24년 61일차|[농장 관리](https://www.acmicpc.net/problem/1245)||JavaScript|
+|24년 62일차|[탑(JS로 다시 풀이)](https://www.acmicpc.net/problem/2493)||JavaScript|
 <!-- prettier-ignore-end -->
