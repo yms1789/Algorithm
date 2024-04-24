@@ -199,4 +199,5 @@
 |24년 60일차|[텀 프로젝트](https://www.acmicpc.net/problem/9466)||JavaScript|
 |24년 61일차|[농장 관리](https://www.acmicpc.net/problem/1245)||JavaScript|
 |24년 62일차|[탑(JS로 다시 풀이)](https://www.acmicpc.net/problem/2493)||JavaScript|
+|24년 63일차|[아기 상어(JS로 다시 풀이)](https://www.acmicpc.net/problem/16236)||JavaScript|
 <!-- prettier-ignore-end -->
