@@ -200,4 +200,5 @@
 |24년 61일차|[농장 관리](https://www.acmicpc.net/problem/1245)||JavaScript|
 |24년 62일차|[탑(JS로 다시 풀이)](https://www.acmicpc.net/problem/2493)||JavaScript|
 |24년 63일차|[아기 상어(JS로 다시 풀이)](https://www.acmicpc.net/problem/16236)||JavaScript|
+|24년 64일차|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)||JavaScript|
 <!-- prettier-ignore-end -->
