@@ -201,4 +201,5 @@
 |24년 62일차|[탑(JS로 다시 풀이)](https://www.acmicpc.net/problem/2493)||JavaScript|
 |24년 63일차|[아기 상어(JS로 다시 풀이)](https://www.acmicpc.net/problem/16236)||JavaScript|
 |24년 64일차|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)||JavaScript|
+|24년 65일차|[가르침](https://www.acmicpc.net/problem/1062)|[기차가 어둠을 헤치가 은하수를(re)](https://www.acmicpc.net/problem/15787)|JavaScript|
 <!-- prettier-ignore-end -->
